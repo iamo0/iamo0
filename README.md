@@ -14,7 +14,7 @@ For five years I've taught around 3000 people how to write JS applications at [H
 
 I've attended several conferences and was a guest to podcasts. I've made a [YouTube playlist with all the recordings](https://youtube.com/playlist?list=PLmOh95BPNWptLjbHydIIYoOm1GOhRtCom&si=9_qGkqRunC79A189).
 
-This GitHub profile is started from scratch, because I've lost access to my old one (@o0), thanks to Google Authenticator. Yet, I might fork some things from it to this account in future.
+This GitHub profile is started from scratch, because I've lost access to [my old one (@o0)](https://github.com/o0), thanks to Google Authenticator. Yet, I might fork some things from it to this account in future.
 
 <!---
 iamo0/iamo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
