@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I wouldn've made this README if Github didn't recommend me to
 
 I've worked as a Software Developer for
-- [Art Lebedev Studio](https://artlebedev.ru) | [En🇬🇧](https://artlebedev.com)
+- [Art Lebedev Studio](https://artlebedev.ru/o0) | [En🇬🇧](https://artlebedev.com)
 - [Ostrovok.ru](https://ostrovok.ru)
 - [JetBrains](https://jetbrains.com)
 
